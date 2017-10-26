@@ -1,7 +1,7 @@
 # Particle-System
 # For Arch Linux:
 Install sfml and csfml (`sudo pacman -S sfml csfml`)
-Download the files in a folder and just do:
+  Download the files in a folder and just do:
 `g++ main.cpp Particle.cpp -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system && ./sfml-app`
 
 # CONTROLS:
