@@ -18,3 +18,6 @@ You can modify the values below in case you want to play with the program.
 * FPS           --> The number of frames per second.
 * pointOfSpawn  --> No reason to modify them since you can just modify it by clicking.
 * HEIGHT        --> The size of the window. (It's a square window)
+
+# Video of how it works.
+[link to video](https://streamable.com/x41q5)
